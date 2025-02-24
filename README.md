@@ -6,9 +6,26 @@ This project is simple project about digital design use Verilog hardware descrip
 
 ## About the project
 
+### Project sutructure
+
+```plaintext
+.
+├── src/
+|   ├──datapath.v
+|   ├──controller.v
+|   ├──some sub module
+├── images/
+|   ├──algorithms.png
+|   ├──FSM.png
+|   ├──datapath.png
+├── testbench/
+|   ├──reverse_tb.v
+├── README.md
+```
+
 ### Algorithms
 
-![Algorithm of project](reverse.png)
+![Algorithm of project](images/reverse.png)
 
 ### INOUT signals
 
@@ -23,8 +40,8 @@ This project is simple project about digital design use Verilog hardware descrip
 
 ### Datapath
 
-![](datapath.png)
+![](images/datapath.png)
 
 ### FSM
 
-![](fsm_reverse.png)
+![](images/fsm_reverse.png)
