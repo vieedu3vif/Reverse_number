@@ -34,7 +34,7 @@ This project is simple project about digital design use Verilog hardware descrip
 
 ### Algorithms
 
-![Algorithm of project](images/reverse.png)
+![Algorithm of project](doc/images/reverse.png)
 
 ### INOUT signals
 
